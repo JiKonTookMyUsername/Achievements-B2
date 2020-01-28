@@ -1,0 +1,11 @@
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\obj\Debug\netcoreapp2.2\streamwriter.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\obj\Debug\netcoreapp2.2\streamwriter.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\obj\Debug\netcoreapp2.2\streamwriter.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\obj\Debug\netcoreapp2.2\streamwriter.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\bin\Debug\netcoreapp2.2\streamwriter.deps.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\bin\Debug\netcoreapp2.2\streamwriter.runtimeconfig.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\bin\Debug\netcoreapp2.2\streamwriter.runtimeconfig.dev.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\bin\Debug\netcoreapp2.2\streamwriter.dll
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\bin\Debug\netcoreapp2.2\streamwriter.pdb
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\obj\Debug\netcoreapp2.2\streamwriter.dll
+D:\ma\bewijzenmap\periode1.2\pro\achievements\streamwriter\obj\Debug\netcoreapp2.2\streamwriter.pdb
