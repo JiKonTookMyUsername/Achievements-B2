@@ -1,0 +1,22 @@
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\obj\Debug\netcoreapp2.2\what_am_i.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\obj\Debug\netcoreapp2.2\what_am_i.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\obj\Debug\netcoreapp2.2\what_am_i.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\obj\Debug\netcoreapp2.2\what_am_i.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\bin\Debug\netcoreapp2.2\what_am_i.deps.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\bin\Debug\netcoreapp2.2\what_am_i.runtimeconfig.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\bin\Debug\netcoreapp2.2\what_am_i.runtimeconfig.dev.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\bin\Debug\netcoreapp2.2\what_am_i.dll
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\bin\Debug\netcoreapp2.2\what_am_i.pdb
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\obj\Debug\netcoreapp2.2\what_am_i.dll
+D:\ma\bewijzenmap\periode1.2\pro\achievements\what_am_i\obj\Debug\netcoreapp2.2\what_am_i.pdb
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\bin\Debug\netcoreapp2.2\what_am_i.deps.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\bin\Debug\netcoreapp2.2\what_am_i.runtimeconfig.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\bin\Debug\netcoreapp2.2\what_am_i.runtimeconfig.dev.json
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\bin\Debug\netcoreapp2.2\what_am_i.dll
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\bin\Debug\netcoreapp2.2\what_am_i.pdb
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\obj\Debug\netcoreapp2.2\what_am_i.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\obj\Debug\netcoreapp2.2\what_am_i.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\obj\Debug\netcoreapp2.2\what_am_i.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\obj\Debug\netcoreapp2.2\what_am_i.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\obj\Debug\netcoreapp2.2\what_am_i.dll
+D:\ma\bewijzenmap\periode1.2\pro\achievements\What Am I\obj\Debug\netcoreapp2.2\what_am_i.pdb
